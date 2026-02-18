@@ -15,5 +15,7 @@
 
 ## Автор
 Yasinska Anastasiia
-<img width="1920" height="978" alt="image" src="https://github.com/user-attachments/assets/129cd55f-67a7-4c51-983b-75211586bd62" />
+<img width="1900" height="977" alt="image" src="https://github.com/user-attachments/assets/7dffd444-44dc-47d3-b1bd-10f04487390e" />
+
+
 
