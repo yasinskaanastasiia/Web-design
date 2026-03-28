@@ -1,4 +1,6 @@
-# Minesweeper UI
+#  Lab1 – Minesweeper UI
+
+
 
 Лабораторна робота з HTML та CSS.
 
